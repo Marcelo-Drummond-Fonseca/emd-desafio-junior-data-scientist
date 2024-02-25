@@ -17,4 +17,4 @@
 
 ## Para as visualizações de dados:
 
-TODO
+1) Abra os PDFs na pasta "Visualizações de dados", que contém informações relevantes sobre a quantidade de chamados em relação a bairros, datas e eventos.
